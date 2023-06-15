@@ -1,0 +1,86 @@
+.entry{
+    width: 475px;
+    height: auto;
+    background-color: aqua;
+    margin-left: 200px;
+   
+
+}
+.lab{
+    background-color:antiquewhite;
+    pointer-events: none;
+    height: 40px;
+    width: 150px ;
+    font-size: larger;
+    text-align: right;
+
+
+}
+.lab3{
+    background-color:rgb(173, 105, 15);
+    pointer-events: none;
+    height: 40px;
+    width: 150px ;
+    font-size:x-large;
+    font-weight: bold;
+    text-align: right;
+
+
+}
+
+
+.lab1{
+    background-color:antiquewhite;
+    pointer-events: none;
+  height: 40px;
+  font-size:x-large;
+  width:auto;
+  
+}
+.table,th,td{
+    border: 1px solid ;
+    height: 120 px;
+    font-size: large;
+
+}
+table.table caption{
+    background-color: #f79646;
+    font-size: x-large;
+
+}
+
+table.table thead th{
+    padding: 8px;
+    background-color: #fde9d9;
+    font-size: large;
+}
+
+table.table tfoot{
+    font-weight: bold;
+    font-size: large;
+    background-color: #687886;
+    color:#fff
+}
+.main{
+    width: 780 px;
+    padding: 20 px;
+    margin: auto;
+}
+.input{
+    
+    height: 40px;
+    font-size: larger;
+    width: 120px;
+    align-content: center;
+    font-size: xx-large;
+    appearance: initial;
+}
+.not{
+    text-align: center;
+    font-weight:bold;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
